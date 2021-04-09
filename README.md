@@ -16,5 +16,7 @@ e no código que disponibilizei em 2013 para a versão 5 do PHP.
 
 ## Converter TesteWebservices.pfx para TesteWebservices.pem: 
 
+Password: **TESTEwebservice**
+
 > openssl pkcs12 -in TesteWebservices.pfx -out TesteWebservices.pem -nodes
 
