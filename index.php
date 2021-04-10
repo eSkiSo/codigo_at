@@ -3,7 +3,7 @@
 /**
  * Codigo PHP para enviar guias de transporte para a AT
  *
- * Baseado no codigo do StadaExp (sem dependencias externas, mas requere SOAP) e no código que disponibilizei em 2013 para a versão 5 do PHP.
+ * Baseado no codigo do StadaExp (sem dependencias externas, mas requer SOAP) e no código que disponibilizei em 2013 para a versão 5 do PHP.
  *
  *
  * Codigo StadaExp: https://www.portugal-a-programar.pt/forums/topic/57734-utilizar-webservices-da-at/?do=findComment&comment=609688
