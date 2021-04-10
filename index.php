@@ -15,7 +15,7 @@
  *     - TesteWebservices.pfx (pasta certs - convertido para pem, este ficheiro está disponivel no mesmo arquivo comprimido que a ChavePublica)
  *     - documentosTransporte.wsdl (pasta wsdl):  http://info.portaldasfinancas.gov.pt/pt/apoio_contribuinte/Documents/documentosTransporte.wsdl
  *
- *      Converter TesteWebservices.pfx para TesteWebservices.pem: 
+ *      Converter TesteWebservices.pfx para TesteWebservices.pem (Password: TESTEwebservice): 
  *              openssl pkcs12 -in TesteWebservices.pfx -out TesteWebservices.pem -nodes
  */
 
