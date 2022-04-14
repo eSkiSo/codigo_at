@@ -14,6 +14,10 @@ e no código que disponibilizei em 2013 para a versão 5 do PHP.
 4. **documentosTransporte.wsdl** (pasta wsdl):  http://info.portaldasfinancas.gov.pt/pt/apoio_contribuinte/Documents/documentosTransporte.wsdl
 
 
+## Certificados e WSDL a funcionar a 14/04/2022
+https://github.com/eSkiSo/codigo_at/files/8491405/certs_wsdl.zip
+
+
 ## Converter TesteWebservices.pfx para TesteWebservices.pem: 
 
 Password: **TESTEwebservice**
